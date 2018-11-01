@@ -1,0 +1,17 @@
+{
+  "name": "solid-pane-source",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Arne Hassel <arne.hassel@inrupt.com>",
+  "contributors": [
+    "Tim Berners-Lee <timbl@mit.edu>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
